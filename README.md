@@ -6,6 +6,6 @@ Areas of Interest
 =================
 
 1. Data Engineering
-2. Data Governance
-3. Software Engineering
-4. Artificial Intelligence
+2. Artificial Intelligence
+3. Software Development
+4. Standards and Best Practices
